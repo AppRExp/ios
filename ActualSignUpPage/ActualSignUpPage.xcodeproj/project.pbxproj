@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2C5CCC3A467606725705F96B /* Pods_ActualSignUpPageUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 418D72F2101811259D9BA6B2 /* Pods_ActualSignUpPageUITests.framework */; };
+		4D2DADDD20119007002BAB50 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4D2DADDC20119007002BAB50 /* GoogleService-Info.plist */; };
 		4D4D364E200A17C100E9973A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4D364D200A17C100E9973A /* AppDelegate.swift */; };
 		4D4D3650200A17C200E9973A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4D364F200A17C200E9973A /* ViewController.swift */; };
 		4D4D3653200A17C200E9973A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4D3651200A17C200E9973A /* Main.storyboard */; };
@@ -16,7 +17,6 @@
 		4D4D3663200A17C200E9973A /* ActualSignUpPageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4D3662200A17C200E9973A /* ActualSignUpPageTests.swift */; };
 		4D4D366E200A17C200E9973A /* ActualSignUpPageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4D366D200A17C200E9973A /* ActualSignUpPageUITests.swift */; };
 		4D853DAE2010FE6400D6D8B4 /* Fond-décran-iphone-hd-7-491.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D853DAD2010FE6400D6D8B4 /* Fond-décran-iphone-hd-7-491.jpg */; };
-		4DB4D6CA200C408500A92C43 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4DB4D6C9200C408500A92C43 /* GoogleService-Info.plist */; };
 		80D92AB8EA201699ED59B49D /* Pods_ActualSignUpPageTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7009EA679147295D7B547EA0 /* Pods_ActualSignUpPageTests.framework */; };
 		F9C87007D435BC816DD4CFD1 /* Pods_ActualSignUpPage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 675AD462AED5F4DFEA448066 /* Pods_ActualSignUpPage.framework */; };
 /* End PBXBuildFile section */
@@ -42,6 +42,7 @@
 		044E45BD4E7771DE12033141 /* Pods-ActualSignUpPageUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ActualSignUpPageUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ActualSignUpPageUITests/Pods-ActualSignUpPageUITests.release.xcconfig"; sourceTree = "<group>"; };
 		418D72F2101811259D9BA6B2 /* Pods_ActualSignUpPageUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActualSignUpPageUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4762788C15565EB1D6325AA8 /* Pods-ActualSignUpPage.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ActualSignUpPage.release.xcconfig"; path = "Pods/Target Support Files/Pods-ActualSignUpPage/Pods-ActualSignUpPage.release.xcconfig"; sourceTree = "<group>"; };
+		4D2DADDC20119007002BAB50 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
 		4D4D364A200A17C100E9973A /* ActualSignUpPage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ActualSignUpPage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D4D364D200A17C100E9973A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D4D364F200A17C200E9973A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,7 +57,6 @@
 		4D4D366D200A17C200E9973A /* ActualSignUpPageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActualSignUpPageUITests.swift; sourceTree = "<group>"; };
 		4D4D366F200A17C200E9973A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D853DAD2010FE6400D6D8B4 /* Fond-décran-iphone-hd-7-491.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Fond-décran-iphone-hd-7-491.jpg"; sourceTree = "<group>"; };
-		4DB4D6C9200C408500A92C43 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		675AD462AED5F4DFEA448066 /* Pods_ActualSignUpPage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActualSignUpPage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6832B9772914E7C73E07C794 /* Pods-ActualSignUpPageTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ActualSignUpPageTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ActualSignUpPageTests/Pods-ActualSignUpPageTests.release.xcconfig"; sourceTree = "<group>"; };
 		7009EA679147295D7B547EA0 /* Pods_ActualSignUpPageTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActualSignUpPageTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -137,7 +137,7 @@
 				4D4D3654200A17C200E9973A /* Assets.xcassets */,
 				4D4D3656200A17C200E9973A /* LaunchScreen.storyboard */,
 				4D4D3659200A17C200E9973A /* Info.plist */,
-				4DB4D6C9200C408500A92C43 /* GoogleService-Info.plist */,
+				4D2DADDC20119007002BAB50 /* GoogleService-Info.plist */,
 				4D853DAD2010FE6400D6D8B4 /* Fond-décran-iphone-hd-7-491.jpg */,
 			);
 			path = ActualSignUpPage;
@@ -289,7 +289,7 @@
 			files = (
 				4D853DAE2010FE6400D6D8B4 /* Fond-décran-iphone-hd-7-491.jpg in Resources */,
 				4D4D3658200A17C200E9973A /* LaunchScreen.storyboard in Resources */,
-				4DB4D6CA200C408500A92C43 /* GoogleService-Info.plist in Resources */,
+				4D2DADDD20119007002BAB50 /* GoogleService-Info.plist in Resources */,
 				4D4D3655200A17C200E9973A /* Assets.xcassets in Resources */,
 				4D4D3653200A17C200E9973A /* Main.storyboard in Resources */,
 			);
@@ -646,6 +646,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7JD5J8PHJX;
 				INFOPLIST_FILE = ActualSignUpPage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AppRExp.ActualSignUpPage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -662,6 +663,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7JD5J8PHJX;
 				INFOPLIST_FILE = ActualSignUpPage/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = AppRExp.ActualSignUpPage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
