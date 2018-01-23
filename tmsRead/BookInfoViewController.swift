@@ -12,7 +12,6 @@ class BookInfoViewController: UIViewController {
     
     @IBOutlet weak var bookImage: UIImageView!
     @IBOutlet weak var bookTitle: UILabel!
-    @IBOutlet weak var estReadingTime: UILabel!
     @IBOutlet weak var bookDescription: UILabel!
     
     override func viewDidLoad() {
